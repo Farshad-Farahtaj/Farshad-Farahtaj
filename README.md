@@ -1,9 +1,14 @@
-<h1 align="center">Hi, I'm Farshad Farahtaj 👋</h1>
+<h1 align="center">Farshad Farahtaj</h1>
 <h3 align="center">Data Engineer & AI Specialist</h3>
 
 <p align="center">
-  <b>Bridging the gap between raw data and strategic business decisions.</b><br>
-  Coming from a strong background in management, I don't just write code; I architect solutions that solve real business bottlenecks. I transition complex, messy data into scalable, production-ready pipelines and deploy reliable machine learning models. My focus is strictly on performance, latency, and measurable impact.
+  I build scalable data pipelines and machine learning systems that actually work in production, not just in Jupyter notebooks. <br><br>
+  Coming from a management background, my approach to engineering is strictly pragmatic. I don't write code for the sake of hype; I architect solutions designed to solve concrete business bottlenecks. My daily focus is on efficient data ingestion, lowering latency, and shipping reliable AI models.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/farshad-farahtaj-917118258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:farahtaj.farshad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
